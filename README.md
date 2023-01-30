@@ -12,10 +12,10 @@
 
 ### Contribute to the following Repos:
 
-[x] ️️Typescript
-[ ] React
-[ ] Redux
-[x] Redux-Toolkit
+- [x] ️️Typescript
+- [ ] React
+- [ ] Redux
+- [x] Redux-Toolkit
 
 ### Complete 40 Project Euler Problems
 0 / 40
