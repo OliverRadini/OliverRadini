@@ -18,4 +18,4 @@
 - [x] Redux-Toolkit
 
 ### Complete 40 Project Euler Problems
-0 / 40
+1 / 40
