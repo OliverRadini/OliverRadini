@@ -3,8 +3,8 @@
 
 ## Professional Experience
 
-- Javascript since ~2015
-- Typescript since ~2016
+- Javascript since 2015
+- Typescript since 2016
 - C# since 2018
 - Python: 2 years
 
