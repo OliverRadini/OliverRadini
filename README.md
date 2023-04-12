@@ -15,3 +15,6 @@
 
 ### Complete 40 Project Euler Problems
 - 15 / 40
+
+### Complete Data Engineering Zoomcamp
+- Started week 1
