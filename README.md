@@ -7,6 +7,8 @@
 - Typescript since 2016
 - C# since 2018
 - Python: 2 years
+- SQL since 2015
+- Mongo since 2017
 
 ## Programming goals for 2023
 
@@ -17,4 +19,12 @@
 - 15 / 40
 
 ### Complete Data Engineering Zoomcamp
-- Started week 1
+
+#### Week 1
+[x] 1.1.1 - Introduction to Google cloud
+[x] 1.2.1 - Introduction to Docker
+[x] 1.2.2 - Ingesting data to Postgres
+[x] 1.2.3 - Connecting pgAdmin and Postgres
+[x] 1.2.4 - Dockerizing data ingestion
+[x] 1.2.5 - Docker Compose (used Podman instead)
+[ ] 1.2.6 - SQL Refresher
