@@ -21,10 +21,10 @@
 ### Complete Data Engineering Zoomcamp
 
 #### Week 1
-[x] 1.1.1 - Introduction to Google cloud
-[x] 1.2.1 - Introduction to Docker
-[x] 1.2.2 - Ingesting data to Postgres
-[x] 1.2.3 - Connecting pgAdmin and Postgres
-[x] 1.2.4 - Dockerizing data ingestion
-[x] 1.2.5 - Docker Compose (used Podman instead)
-[ ] 1.2.6 - SQL Refresher
+- [x] 1.1.1 - Introduction to Google cloud
+- [x] 1.2.1 - Introduction to Docker
+- [x] 1.2.2 - Ingesting data to Postgres
+- [x] 1.2.3 - Connecting pgAdmin and Postgres
+- [x] 1.2.4 - Dockerizing data ingestion
+- [x] 1.2.5 - Docker Compose (used Podman instead)
+- [ ] 1.2.6 - SQL Refresher
