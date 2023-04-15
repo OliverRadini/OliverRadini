@@ -27,4 +27,5 @@
 - [x] 1.2.3 - Connecting pgAdmin and Postgres
 - [x] 1.2.4 - Dockerizing data ingestion
 - [x] 1.2.5 - Docker Compose (used Podman instead)
-- [ ] 1.2.6 - SQL Refresher
+- [x] 1.2.6 - SQL Refresher
+- [ ] 1.3.1 - Introduction to Terraform Concepts & GCP Pre-Requisites
