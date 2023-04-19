@@ -1,5 +1,4 @@
 
-> This is currently a work in progress [06/03/2023]
 
 ## Professional Experience
 
@@ -28,4 +27,4 @@
 - [x] 1.2.4 - Dockerizing data ingestion
 - [x] 1.2.5 - Docker Compose (used Podman instead)
 - [x] 1.2.6 - SQL Refresher
-- [ ] 1.3.1 - Introduction to Terraform Concepts & GCP Pre-Requisites
+- [x] 1.3.1 - Introduction to Terraform Concepts & GCP Pre-Requisites
