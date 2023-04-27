@@ -17,14 +17,8 @@
 ### Complete 40 Project Euler Problems
 - 15 / 40
 
-### Complete Data Engineering Zoomcamp
+### Complete [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-#### Week 1
-- [x] 1.1.1 - Introduction to Google cloud
-- [x] 1.2.1 - Introduction to Docker
-- [x] 1.2.2 - Ingesting data to Postgres
-- [x] 1.2.3 - Connecting pgAdmin and Postgres
-- [x] 1.2.4 - Dockerizing data ingestion
-- [x] 1.2.5 - Docker Compose (used Podman instead)
-- [x] 1.2.6 - SQL Refresher
-- [x] 1.3.1 - Introduction to Terraform Concepts & GCP Pre-Requisites
+#### [Week 1](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup)
+- [x] Course
+- [ ] Homework 
