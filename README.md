@@ -23,3 +23,7 @@
 #### [Week 2 - Workflow Orchestration](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_2_workflow_orchestration)
 - [x] Course
 - [x] Homework
+
+#### [Week 3 - Data Warehouse](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_3_data_warehouse)
+- [ ] Course
+- [ ] Homework
