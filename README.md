@@ -12,7 +12,7 @@
 ## Programming goals for 2023
 
 ### Complete 40 Project Euler Problems
-- 23 / 40
+- 24 / 40
 
 ### Complete [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
@@ -25,5 +25,5 @@
 - [x] Homework
 
 #### [Week 3 - Data Warehouse](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_3_data_warehouse)
-- [ ] Course
+- [x] Course
 - [ ] Homework
