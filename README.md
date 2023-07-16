@@ -5,14 +5,14 @@
 - Javascript since 2015
 - Typescript since 2016
 - C# since 2018
-- Python: 2 years
+- Pytho since 2015
 - SQL since 2015
 - Mongo since 2017
 
 ## Programming goals for 2023
 
 ### Complete 40 Project Euler Problems
-- 24 / 40
+- 25 / 40
 
 ### Complete [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
